@@ -24,5 +24,5 @@
 * [Support Group](https://t.me/Alienxsupport)
 
 # Credits
-* [Alien Bot](https://github.com/mukund123456)
-
+* [Kabir](https://github.com/mukund123456)
+* [RiZoel](https://github.com/MrRizoel)
